@@ -24,3 +24,6 @@ Required columns:
 
 ## Evaluation
 Teams are ranked by **Weighted F1 Score**, then Accuracy.
+
+## Leaderboard
+[View Live Leaderboard](https://siyaagarwal2005.github.io/driver-behaviour-competition/)
